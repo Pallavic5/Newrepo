@@ -7,4 +7,4 @@ deepak clerk sales 23000
 sunil peon sales 13000
 satvik director purchase 80000
 Hello 
-This is Employee details mention above
+This is Employees details mention above
